@@ -1,5 +1,5 @@
-# Group Dev Work
-# Cloud Ninjas create TF code for an S3 bucket in VS.
+# Dev Work
+# Create TF code for an S3 bucket in VS.
 Make homepage from VSC 
 - push from PC to Github or ADO
 
